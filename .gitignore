@@ -1,0 +1,9 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+coverage/
+*.freezed.dart
+*.g.dart
+!lib/core/database/app_database.dart
+pubspec.lock
